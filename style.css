@@ -100,7 +100,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #ff004f;
+    background: #08d63f;
     position: absolute;
     left: o;
     bottom: -8px;
